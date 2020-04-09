@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  DragAndDrop
 //
-//  Created by Puspank Kumar on 09/04/20.
-//  Copyright © 2020 Puspank Kumar. All rights reserved.
+//  Created by Pushpank Kumar on 09/04/20.
+//  Copyright © 2020 Pushpank Kumar. All rights reserved.
 //
 
 import UIKit
